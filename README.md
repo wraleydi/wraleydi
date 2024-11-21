@@ -1,8 +1,17 @@
-### Hi, I'm Raleydi Wardhana 👋
+# Hi, I'm Raleydi Wardhana 👋
 🎓 **Final-year Vocational High School Student**  
 💻 **Specializing in "Computer Networking and Telecommunications Technology"**  
 
-I am currently doing an internship at an ISP, where I am gaining hands-on experience in network installations and configurations. I am deeply passionate about technology and have a strong desire to continuously grow and develop my knowledge and skills.
+### 🚀 Goals  
+I am committed to improving myself further in the fields of networking, cybersecurity, and software development. My ultimate goal is to create innovative solutions and contribute to the ever-evolving world of technology.
+
+### 🛠 Skills  
+- **System Administration:** Linux Basics  
+- **Machine Learning:** Foundational knowledge  
+- **Web Development:** HTML, CSS, Basic JavaScript  
+- **Programming:** Basic Python  
+- **Network Administration:** TCP/IP, OSI Layers, and fundamental network setups  
+- **Cybersecurity:** Introductory knowledge on securing networks
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
