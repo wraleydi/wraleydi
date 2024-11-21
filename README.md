@@ -1,3 +1,9 @@
+### Hi, I'm Raleydi Wardhana 👋
+🎓 **Final-year Vocational High School Student**  
+💻 **Specializing in "Computer Networking and Telecommunications Technology"**  
+
+I am currently doing an internship at an ISP, where I am gaining hands-on experience in network installations and configurations. I am deeply passionate about technology and have a strong desire to continuously grow and develop my knowledge and skills.
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
