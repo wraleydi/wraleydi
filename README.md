@@ -1,6 +1,4 @@
 # Hi, I'm Raleydi Wardhana 👋
-## **I am a vocational high school student, who is looking for a lot of experience and knowledge in the field of technology. I am very interested in the field of technology. and I aspire to become an IT who can build, create, develop the field of technology in the world.**
-
 
 🎓 **Final-year Vocational High School Student**  
 💻 **Specializing in "Computer Networking and Telecommunications Technology"**  
